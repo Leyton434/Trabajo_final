@@ -533,3 +533,10 @@
       color: #aa17ff;
   }
 }
+
+
+@media (max-width: 768px){
+  .redes-sociales{
+    grid-template-columns: repeat(1,1fr);
+  }
+}
